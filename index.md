@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nathan Orenstein's Page
 
 You can use the [editor on GitHub](https://github.com/norenstein8390/nathanorenstein.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
