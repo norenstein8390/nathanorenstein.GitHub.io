@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is a data set that interests me: [COVID-19 Dataset](https://github.com/datasets/covid-19)
 
-The data set lists confirmed cases, reported deaths, and reported recoveries from COVID-19. It's disaggregated by country. This data would be particularly useful to someone trying to determine which countries are being hit hardest by COVID-19. This knowledge could then lead to better practices to hopefully cut down the spread. It would also be helpful to see if the number of being getting sick and the number of people dying are going up or down as time goes on. This could show the effectiveness of current policies. 
+The data set lists confirmed cases, reported deaths, and reported recoveries from COVID-19. It's disaggregated by country. This data would be particularly useful to someone trying to determine which countries are being hit hardest by COVID-19. This knowledge could then lead to better practices to hopefully cut down the spread. It would also be helpful to see if the number of people getting sick and the number of people dying are going up or down as time goes on. This could show the effectiveness of current policies. 
 
 Here is a book that interests me: [Deep Learning](https://www.deeplearningbook.org/)
 
